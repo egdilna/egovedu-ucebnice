@@ -3,3 +3,6 @@ title: Elektronické učebnice EGOVedu
 description: Veřejné elektronické učební a lektorské podklady projektu EGOVermentí EDUkace
 url: "https://egdilna.github.io/egovedu-ucebnice" # the base hostname & protocol for your site, e.g. http://example.com
 repository: egdilna/egovedu-ucebnice
+aux_links:
+  EGOVedu: https://www.egovedu.cz
+
