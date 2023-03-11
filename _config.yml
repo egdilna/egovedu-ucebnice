@@ -17,3 +17,12 @@ search:
   rel_url: true
   button: false
 
+back_to_top: true
+back_to_top_text: "Zpátky nahoru"
+footer_content: "Copyright &copy; 2022-2023 <a href=https://www.egdilna.cz>EGdílna</a>"
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%D.%m.%Y"
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Navrhněte změny obsahu..."
+gh_edit_repository: "https://github.com/egovedu/egdilna-skripta"
+gh_edit_branch: "work"
