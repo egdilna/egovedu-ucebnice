@@ -25,5 +25,5 @@ last_edit_timestamp: true # show or hide edit time - page must have `last_modifi
 last_edit_time_format: "%D.%m.%Y"
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Navrhněte změny obsahu..."
-gh_edit_repository: "https://github.com/egovedu/egdilna-skripta"
+gh_edit_repository: "https://github.com/egovedu/egdilna-ucebnice"
 gh_edit_branch: "work"
